@@ -19,7 +19,7 @@ social:
       header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=6Id1G8cAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/Chanlaw
@@ -33,7 +33,7 @@ education:
       year: 2018
 superuser: true
 status:
-  ? icon
+  icon:
 last_name: Chan
 highlight_name: true
 first_name: Lawrence
