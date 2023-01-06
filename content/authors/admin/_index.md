@@ -2,12 +2,11 @@
 title: Lawrence Chan
 role: PhD Candidate
 avatar_filename: avatar.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: I do aI Alignment research.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - AI alignment
+  - mechanistic interpretability
+  - scalable oversight
 social:
   - icon: envelope
     icon_pack: fas
