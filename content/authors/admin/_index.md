@@ -77,7 +77,7 @@ highlight_name: true
 As of January 2023, I'm currently working at the [Alignment Research Center](https://alignment.org/) doing evaluations of large language models. Previously, I was at Redwood Research, where I worked on [adversarial training](https://arxiv.org/abs/2205.01663) and [neural network interpretability](https://www.alignmentforum.org/posts/JvZhhzycHu2Yd57RN/causal-scrubbing-a-method-for-rigorously-testing).
 {style="text-align: left;"}
 
-In early 2022, I went on leave from my PhD at Berkeley, where I was advised by [Anca Dragan](http://people.eecs.berkeley.edu/~anca/) and [Stuart Russell](http://people.eecs.berkeley.edu/~russell/), to work on more hands-on AI alignment projects.
+In early 2022, I went on leave from my PhD at UC Berkeley, where I was advised by [Anca Dragan](http://people.eecs.berkeley.edu/~anca/) and [Stuart Russell](http://people.eecs.berkeley.edu/~russell/), to work on more hands-on AI alignment projects.
 {style="text-align: left;"}
 
 My main research interests are [mechanistic interpretability](https://transformer-circuits.pub/2022/mech-interp-essay/index.html) and [scalable oversight](https://arxiv.org/abs/2211.03540). In the past, I've also done conceptual work on learning human values.
