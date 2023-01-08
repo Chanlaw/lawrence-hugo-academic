@@ -10,7 +10,51 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      # Override your bio text from `authors/admin/_index.md`?
+      css_class: "col-lg-10 mx-auto"
+
+  - block: collection
+    id: publications
+    content:
+      title: Recent Publications
+      count: 5
+      filters:
+        folders:
+          - publication
+        # featured_only: true
+    design:
+      columns: "2"
+      view: compact
+      css_class: "col-md-10 mx-auto"
+
+  # - block: collection
+  #   id: posts
+  #   content:
+  #     title: Recent Posts
+  #     subtitle: ""
+  #     text: ""
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 5
+  #     # Filter on criteria
+  #     filters:
+  #       folders:
+  #         - post
+  #       author: ""
+  #       category: ""
+  #       tag: ""
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ""
+  #     # Choose how many pages you would like to offset by
+  #     offset: 0
+  #     # Page order: descending (desc) or ascending (asc) date.
+  #     order: desc
+  #   design:
+  #     # Choose a layout view
+  #     view: compact
+  #     columns: "2"
+  #     css_class: "col-md-10 mx-auto"
+
   # - block: features
   #   content:
   #     title: Skills
@@ -164,17 +208,6 @@ sections:
   # #       {{< gallery album="demo" >}}
   # #   design:
   # #     columns: "1"
-  # - block: collection
-  #   id: featured
-  #   content:
-  #     title: Featured Publications
-  #     filters:
-  #       folders:
-  #         - publication
-  #       featured_only: true
-  #   design:
-  #     columns: "2"
-  #     view: card
   # - block: collection
   #   content:
   #     title: Recent Publications
