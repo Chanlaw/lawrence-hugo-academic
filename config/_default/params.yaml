@@ -112,6 +112,3 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
-
-# meta
-meta_image: content/authors/admin/avatar.png
