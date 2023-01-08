@@ -3,7 +3,7 @@
 
 title: "Touch reality as soon as possible (when doing machine learning research)"
 subtitle: ""
-summary: ""
+summary: "I argue that new machine learning researchers often delay contact with reality too long, why this is a mistake, and give suggestions for how to avoid it."
 authors: []
 tags: []
 categories: []
