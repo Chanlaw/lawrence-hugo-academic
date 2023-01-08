@@ -33,4 +33,10 @@ publication_types:
   - "2"
 abstract: ""
 publication: "*arXiv preprint arXiv:2011.05596*"
+
+links:
+  - name: arXiv
+    url: https://arxiv.org/abs/2011.05596
+
+url_pdf: https://arxiv.org/pdf/2011.05596.pdf
 ---

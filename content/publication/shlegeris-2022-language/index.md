@@ -11,7 +11,7 @@ authors:
   - Euan McLean
 tags: []
 categories: []
-date: "2022-01-01"
+date: "2022-12-21"
 lastmod: 2023-01-07T17:21:21-08:00
 featured: false
 draft: false
@@ -37,7 +37,7 @@ abstract: "Current language models are considered to have sub-human capabilities
 publication: "*arXiv preprint arXiv:2212.11281*"
 
 links:
-  - name: ArXiv Preprint
+  - name: arXiv
     url: https://arxiv.org/abs/2212.11281
 
 url_pdf: "https://arxiv.org/pdf/2212.11281.pdf"

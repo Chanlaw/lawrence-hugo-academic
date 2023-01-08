@@ -39,7 +39,7 @@ abstract: "Assuming humans are (approximately) rational enables robots to infer 
 We find that wrongly modeling a systematically irrational human as noisy-rational performs a lot worse than correctly capturing these biases -- so much so that it can be better to skip inference altogether and stick to the prior! More importantly, we show that an irrational human, when correctly modelled, can communicate more information about the reward than a perfectly rational human can. That is, if a robot has the correct model of a human's irrationality, it can make an even stronger inference than it ever could if the human were rational. Irrationality fundamentally helps rather than hinder reward inference, but it needs to be correctly accounted for."
 
 links:
-  - name: ArXiv Preprint
+  - name: arXiv
     url: https://arxiv.org/abs/2111.06956
 
 url_pdf: "https://arxiv.org/pdf/2111.06956.pdf"

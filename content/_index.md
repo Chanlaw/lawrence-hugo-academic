@@ -23,7 +23,7 @@ sections:
         # featured_only: true
     design:
       columns: "2"
-      view: compact
+      view: card
       css_class: "col-md-10 mx-auto"
 
   # - block: collection

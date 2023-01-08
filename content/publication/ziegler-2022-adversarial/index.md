@@ -47,7 +47,7 @@ publication: "*NeurIPS 2022*"
 
 
 links:
-  - name: ArXiv Preprint
+  - name: arXiv
     url: "https://arxiv.org/abs/2205.01663"
 
 url_pdf: "https://arxiv.org/pdf/2205.01663.pdf"
@@ -55,7 +55,7 @@ url_code:
 url_dataset: ""
 url_poster: ""
 url_project: ""
-url_slides: ""
+url_slides: "https://nips.cc/media/neurips-2022/Slides/52876.pdf"
 url_source: ""
 url_video: ""
 ---
