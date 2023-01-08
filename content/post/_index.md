@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Blog Posts
 cms_exclude: true
 
 # View.
@@ -10,6 +10,8 @@ view: 2
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ''
-  image: ''
+  caption: ""
+  image: ""
 ---
+
+I occasionally blog on LessWrong/Alignment Forum, under the username "LawrenceC": https://www.lesswrong.com/users/LawrenceC
