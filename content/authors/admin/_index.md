@@ -49,5 +49,8 @@ In early 2022, I went on leave from my PhD at UC Berkeley, where I was advised b
 My main research interests are [mechanistic interpretability](https://transformer-circuits.pub/2022/mech-interp-essay/index.html) and [scalable oversight](https://arxiv.org/abs/2211.03540). In the past, I've also done conceptual work on learning human values.
 {style="text-align: left;"}
 
+I also sometimes blog about AI alignment and other topics on [LessWrong](https://www.lesswrong.com/users/LawrenceC)/the [AI Alignment Forum](https://www.alignmentforum.org/users/LawrenceC).
+{style="text-align: left;"}
+
 <!-- Previously,
 {style="text-align: left;"} -->
