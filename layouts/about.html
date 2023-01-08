@@ -19,7 +19,7 @@
 
 <!-- About widget -->
 <div class="row">
-  <div class="col-12 col-lg-4">
+  <div class="col-lg-4 col-12">
     <div id="profile">
       {{ if site.Params.avatar.gravatar }}
       <img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="https://s.gravatar.com/avatar/{{ md5 $person.email }}?s=270')" alt="Avatar">
@@ -66,7 +66,7 @@
 
     </div>
   </div>
-  <div class="col-12 col-lg-8">
+  <div class="col-lg-8 col-12">
 
     {{/* Only display widget title in explicit instances of about widget, not in author pages. */}}
     {{ if and $page.Params.widget $page.Title }}<h1>{{ $page.Title | markdownify | emojify }}</h1>{{ end }}
