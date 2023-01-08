@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ""
     org_name: ""
-    description: Lawrence Chan's personal website"
+    description: Lawrence Chan's personal website.
     twitter: "justanotherlaw"
   analytics:
     google_analytics: ""
@@ -38,6 +38,7 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: true
+  image: "featured.jpg"
 
 # Site footer
 
