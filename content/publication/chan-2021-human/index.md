@@ -5,7 +5,7 @@ title: "Human irrationality: both bad and good for reward inference"
 subtitle: ""
 summary: "We study the effect of human irrationality on reward inference. We find that irrationality can both help and hurt reward inference, depending on the type of irrationality. We also find that the effect of irrationality on reward inference is not monotonic in the degree of irrationality."
 authors:
-  - Lawrence Chan
+  - admin
   - Andrew Critch
   - Anca Dragan
 tags: []
