@@ -3,7 +3,7 @@
 
 title: Language models are better than humans at next-token prediction
 subtitle: ""
-summary: ""
+summary: "We compare humans to small language models on next-token prediction tasks, and find that even relatively small language models consistently outperform humans."
 authors:
   - Buck Shlegeris
   - Fabien Roger
@@ -33,6 +33,19 @@ projects: []
 publishDate: "2023-01-08T01:21:21.053277Z"
 publication_types:
   - "3"
-abstract: ""
+abstract: "Current language models are considered to have sub-human capabilities at natural language tasks like question-answering or writing code. However, language models are not trained to perform well at these tasks, they are trained to accurately predict the next token given previous tokes in tokenized text. It is not clear whether language models are better or worse than humans at next token prediction. To try to answer this question, we performed two distinct experiments to directly compare humans and language models on this front: one measuring top-1 accuracy and the other measuring perplexity. In both experiments, we find humans to be consistently _worse_ than even relatively small language models like GPT3-Ada at next-token prediction."
 publication: "*arXiv preprint arXiv:2212.11281*"
+
+links:
+  - name: ArXiv Preprint
+    url: https://arxiv.org/abs/2212.11281
+
+url_pdf: "https://arxiv.org/pdf/2212.11281.pdf"
+url_code:
+url_dataset: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
 ---
